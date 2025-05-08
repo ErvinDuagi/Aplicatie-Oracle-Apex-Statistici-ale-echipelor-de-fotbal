@@ -37,14 +37,14 @@ Acest proiect este o aplicație web creată cu Oracle APEX pentru gestionarea ec
 #### ✅ Master-Detail: Meciuri și Statistici
 ![Form Meciuri Statistici Master-Detail](https://i.imgur.com/mVDmPYX.png)
 #### ✅ Form simplu: Pagina principală - Navigație
-![Home Page](./screenshots/home_form_main.png)
+![Home Page](https://i.imgur.com/SakcFWy.png)
 
 ---
 
 ### 📊 Rapoarte
 
 #### 📋 Classic Report - Echipe
-![Classic Report Echipe](./screenshots/classic_report_echipe.png)
+![Classic Report Echipe](https://i.imgur.com/gwdHRoK.png)
 
 #### 📋 Interactive Grid - Jucători
 ![Interactive Grid Jucători](./screenshots/interactive_grid_jucatori.png)
