@@ -33,7 +33,7 @@ Acest proiect este o aplicație web creată cu Oracle APEX pentru gestionarea ec
 ### 🧩 Formulare
 
 #### ✅ Master-Detail: Echipe și Jucători
-![Form Echipe Jucători Master-Detail]([./screenshots/form_echipe_jucatori_masterdetail.png](https://imgur.com/a/KnMMn1s))
+![Form Echipe Jucători Master-Detail]https://i.imgur.com/EtBXbKN.png
 
 #### ✅ Master-Detail: Meciuri și Statistici
 ![Form Meciuri Statistici Master-Detail](./screenshots/form_meciuri_statistici_masterdetail.png)
