@@ -1,6 +1,6 @@
 # 🏆 Proiect Oracle APEX - Management Echipe și Meciuri Fotbal
 
-Acest proiect este o aplicație web creată cu Oracle APEX pentru gestionarea echipelor, meciurilor, jucătorilor și statisticilor din cadrul unui campionat de fotbal. Proiectul a fost realizat ca parte a cerințelor de la cursul ICASE (Ingineria Calculatoarelor pentru Aplicatii Software și Economice) din cadrul Universității Politehnica București.
+Acest proiect este o aplicație web creată cu Oracle APEX pentru gestionarea echipelor, meciurilor, jucătorilor și statisticilor din cadrul unui campionat de fotbal. 
 
 ---
 
@@ -9,7 +9,7 @@ Acest proiect este o aplicație web creată cu Oracle APEX pentru gestionarea ec
 - **Oracle APEX 24.2.5**
 - **Oracle SQL**
 - **XCase** – pentru modelul conceptual/logical
-- **Moodle** – predare și evaluare
+
 
 ---
 
