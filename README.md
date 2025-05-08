@@ -35,8 +35,7 @@ Acest proiect este o aplicație web creată cu Oracle APEX pentru gestionarea ec
 #### ✅ Master-Detail: Echipe și Jucători
 ![Form Echipe-Jucători](https://i.imgur.com/EtBXbKN.png)
 #### ✅ Master-Detail: Meciuri și Statistici
-![Form Meciuri Statistici Master-Detail](./screenshots/form_meciuri_statistici_masterdetail.png)
-
+![Form Meciuri Statistici Master-Detail](https://i.imgur.com/mVDmPYX.png)
 #### ✅ Form simplu: Pagina principală - Navigație
 ![Home Page](./screenshots/home_form_main.png)
 
@@ -58,7 +57,7 @@ Acest proiect este o aplicație web creată cu Oracle APEX pentru gestionarea ec
 ### 📈 Grafice
 
 #### 📊 Bar Chart: Goluri per jucător
-![Bar Chart Goluri](./screenshots/chart_goluri_jucator.png)
+![Goluri per jucător](https://i.imgur.com/EtBXbKN.png)
 
 #### 🥧 Pie Chart: Distribuția pozițiilor
 ![Pie Chart Poziții](./screenshots/chart_pie_pozitii.png)
