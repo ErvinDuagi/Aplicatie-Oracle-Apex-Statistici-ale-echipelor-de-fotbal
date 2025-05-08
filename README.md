@@ -57,7 +57,7 @@ Acest proiect este o aplicație web creată cu Oracle APEX pentru gestionarea ec
 ### 📈 Grafice
 
 #### 📊 Bar Chart: Goluri per jucător
-![Goluri per jucător](https://i.imgur.com/EtBXbKN.png)
+![Goluri per jucător](https://i.imgur.com/cJdJntG.png)
 
 #### 🥧 Pie Chart: Distribuția pozițiilor
 ![Pie Chart Poziții](./screenshots/chart_pie_pozitii.png)
